@@ -1,0 +1,3 @@
+# Terminal emulator
+
+## `kitty`
