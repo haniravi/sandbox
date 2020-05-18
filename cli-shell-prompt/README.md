@@ -1,3 +1,3 @@
 # Shell prompt
 
-## `zsh`
+## `starship`
