@@ -1,3 +1,0 @@
-# Ebook reader
-
-## `zathura`
